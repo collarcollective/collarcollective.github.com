@@ -6,3 +6,13 @@
 .jumbotron .inner {
   background: transparent url(../img/troybg.png) top center;
 }
+
+.jumbotron h1 {
+  font-size: 72px;
+}
+
+.jumbotron .lead {
+  font-size: 28px;
+}
+
+
