@@ -2,3 +2,7 @@
   width:250px;
 }
 
+
+.jumbotron .inner {
+  background: transparent url(../img/troybg.png) top center;
+}
